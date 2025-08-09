@@ -1,3 +1,4 @@
 # New Project 
 
-This project was created for local
+This project was created for local machine.
+Created by Arnab Chakraborty.
